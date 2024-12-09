@@ -63,6 +63,9 @@ Exclui um produto pelo ID.
 
 1. Certifique-se de que o banco de dados de testes está configurado em test.db.
 2. Execute os testes com o comando:
+~~~~
+pytest
+~~~~
 
 ## 📜 Licença
 Este projeto está licenciado sob os termos da MIT License. Consulte o arquivo LICENSE para mais informações.
